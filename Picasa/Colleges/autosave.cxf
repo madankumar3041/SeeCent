@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<collage version="2" format="16:9" orientation="landscape" theme="picturepile" shadows="1" captions="1" albumUID="e898aab1fdf37050d799aa155709737f">
+ <albumTitle>Coral-11</albumTitle>
+ <albumDate>August, 2002</albumDate>
+ <background type="solid" color="FFFFFFFF"/>
+ <spacing value="0.000000"/>
+ <node x="0.093907" y="0.435117" w="0.329102" h="0.439565" theta="-0.034509" scale="337.000000">
+  <theme>noborder</theme>
+  <src>$My Pictures\Soft Skills\DSCF6404.JPG</src>
+  <uid>9a4d56570f9f266e0000000000000000</uid>
+ </node>
+</collage>
